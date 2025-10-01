@@ -1,12 +1,10 @@
-
 <div align="center" width="50">
 
+### 👩‍💻 I'm Razan Alquraan, a Software Engineering student and programmer.  
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" width="40%"/><br> 
 
 </div>
-
-<hr></hr>
 
 ### 👩‍💻 About Me  
 - 🖥️ أنا **رزان القرعان**، مبرمجة متعددة المهارات.  
