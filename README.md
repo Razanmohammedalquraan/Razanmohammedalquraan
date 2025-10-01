@@ -1,69 +1,45 @@
-# مرحباً! 👋 أنا رزان القرعان
 
-طالبة هندسة برمجيات في جامعة التكنو.  
-ببرمج لأنه ما في شغلة ثانية أعملها 🤣 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
+// tools_I_use organized
 
----
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C++", "Java", "JavaScript", "C#", "Python" },
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
 
-## 🛠️ الأدوات واللغات اللي أتعامل معها
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; أنا رزان القرعان**، طالبة **هندسة برمجيات في جامعة التكنو. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; درست C++، Java، JavaScript، HTML، CSS، C#، Python. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; ببرمج لأنه ما في شغلة ثانية أعملها 🤣 <br>
 
-<div align="center">
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-لغات البرمجة:  
-<img src="https://raw.githubusercontent.com/spxd/icons/main/cpp.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/java.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/javascript.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/csharp.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/python.png" width="30" />  
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-لغات أخرى:  
-<img src="https://raw.githubusercontent.com/spxd/icons/main/html.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/css.png" width="30" />  
+</a>
 
-قواعد البيانات:  
-<img src="https://raw.githubusercontent.com/spxd/icons/main/firebase.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/sqlite.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/postgresql.png" width="30" />  
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-المحررات والمنصات:  
-<img src="https://raw.githubusercontent.com/spxd/icons/main/vscode.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/xcode.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/sublime.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/neovim.png" width="30" />  
+</details>
+  
+<hr></hr>
 
-أدوات أخرى:  
-<img src="https://raw.githubusercontent.com/spxd/icons/main/git.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/figma.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/photoshop.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/gimp.png" width="30" /> 
-<img src="https://raw.githubusercontent.com/spxd/icons/main/lightroom.png" width="30" />  
-
-</div>
-
----
-
-## 💡 اهتماماتي
-
-- أحب استكشاف أنظمة GNU/Linux <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" />  
-- حالياً أتعلم تقنيات جديدة وأطور من نفسي دائماً <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />  
-- أستمتع بمشاريع البرمجة والتجارب العملية <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />  
-
----
-
-## 🔄 دورة الكود
-
-<div align="center">
+Code Cycle<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
-
----
-
-## ⚡ Fun Fact
-
-ضرب راسك في الحائط لمدة ساعة يحرق 150 سعرة حرارية 😅 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="20" />
