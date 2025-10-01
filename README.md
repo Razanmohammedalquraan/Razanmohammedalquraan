@@ -1,19 +1,19 @@
 <div align="center" width="50">
 
-### 👩‍💻 I'm Razan Alquraan, a Software Engineering student and programmer.  
+# 👩‍💻 I'm a programmer.  
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hello Coders" width="60%"/> <br>
 
 </div>
+ 👩‍💻 About Me  
 
-### 👩‍💻 About Me  
-- 🖥️ أنا **رزان القرعان**، مبرمجة متعددة المهارات.  
-- 💡 درست ال : **C++ | Python | Java | JavaScript | HTML | CSS | C#**  
-- ⚡ اهتماماتي: تطوير تطبيقات الويب والموبايل، الخوارزميات، والـ **Problem Solving**.  
-- 🎯 هدفي: بناء مشاريع مفتوحة المصدر ومفيدة للمجتمع.  
+Hi, I'm Razan Alquraan 
+I'm a Software Engineering student at JUST (Jordan University of Science and Technology)  
 
-<hr></hr>
-
+- 📚 I have studied several programming languages: C++, C#, Python, Java, JavaScript, HTML, CSS.  
+- 💡 I enjoy creating applications and coming up with new project ideas. 
+- 🚀 I love turning ideas into code.  
+💻 A programmer striving for 100% correct code or at least error-free 🤣
 ### 🚀 Tools & Technologies  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
